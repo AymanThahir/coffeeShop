@@ -1,0 +1,192 @@
+
+/* Step1: parentContainer */
+/* Step2: component */
+/* Step3: componentContainer */
+/* Step4: row */
+/* Step5: column */
+/* Step6: subColumn */
+/* Step7: contentContainer */
+
+/* Step1: parentContainer */
+/* :::Handled in default CSS::: */
+/* footer {
+    background-color: #f0f0f0;
+} */
+
+/* Step2: component */
+.contact {
+    background-color: #4e342e;
+}
+
+/* Step3: componentContainer */
+.contactContainer {
+    background-color: #795548;
+}
+
+/* Step4: row */
+.contactBody {
+    background-color: #a1887f;
+}
+
+.bookBody {
+    background-color: #bcaaa4;
+}
+
+/* Step5: column */
+.contactBlock {
+    background-color: #d7ccc8;
+}
+
+.messageImageBlock {
+    background-color: #8d6e63;
+}
+
+.BookBlock {
+    background-color: #5d4037;
+}
+
+/* Step6: subColumn */
+.contactBox {
+    background-color: #ffe0b2;
+}
+
+.messageImageBox {
+    background-color: #d84315;
+}
+
+.BookBox {
+    background-color: #4e342e;
+}
+
+/* Step7: contentContainer */
+.contactBox figure {
+    background-color: #ffccbc;
+}
+
+.contactBox figure img {
+    background-color: #d32f2f;
+}
+
+.contactBox h2 {
+    background-color: #ff7043;
+}
+
+.messageImageBox figure img {
+    background-color: #ff5722;
+}
+
+/* ::::::: Contact Icons Section ::::::: */
+
+/* Step2: component */
+.contactIcon {
+    background-color: #263238;
+}
+
+/* Step3: componentContainer */
+.contactIconContainer {
+    background-color: #37474f;
+}
+
+/* Step4: row */
+.contactIconBody {
+    background-color: #455a64;
+}
+
+.copyrightBody {
+    background-color: #607d8b;
+}
+
+/* Step5: column */
+.mailBlock {
+    background-color: #ff8a65;
+}
+
+.openingBlock {
+    background-color: #ba68c8;
+}
+
+.locationBlock {
+    background-color: #4dd0e1;
+}
+
+.numberBlock {
+    background-color: #ffd54f;
+}
+
+.copyrightBlock {
+    background-color: #b0bec5;
+}
+
+/* Step6: subColumn */
+.mailBox {
+    background-color: #ff7043;
+}
+
+.openingBox {
+    background-color: #ce93d8;
+}
+
+.locationBox {
+    background-color: #80deea;
+}
+
+.numberBox {
+    background-color: #ffe082;
+}
+
+.copyrightBox {
+    background-color: #cfd8dc;
+}
+
+/* Step7: contentContainer */
+.emailcardhead {
+    background-color: #ffccbc;
+}
+
+.emailcardhead i {
+    background-color: #ff5722;
+}
+
+.emailcardhead p {
+    background-color: #fff3e0;
+}
+
+.timecardhead {
+    background-color: #e1bee7;
+}
+
+.timecardmain {
+    background-color: #f3e5f5;
+}
+
+.timecardmain p {
+    background-color: #f8bbd0;
+}
+
+.locationcardhead {
+    background-color: #b2ebf2;
+}
+
+.locationcardmain {
+    background-color: #e0f7fa;
+}
+
+.locationcardmain p {
+    background-color: #b2dfdb;
+}
+
+.numbercardhead {
+    background-color: #fff9c4;
+}
+
+.numbercardmain {
+    background-color: #fffde7;
+}
+
+.numbercardmain p {
+    background-color: #fff8e1;
+}
+
+.copyrightBox p {
+    background-color: #e0e0e0;
+}

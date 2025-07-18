@@ -1,0 +1,72 @@
+/* ::::CSS Sequence (7 Steps):::: */
+/* Step1: parentContainer */
+/* Step2: component */
+/* Step3: componentContainer */
+/* Step4: row */
+/* Step5: column */
+/* Step6: subColumn */
+/* Step7: contentContainer */
+
+
+/* Step1: parentContainer */
+/* :::For Parent Container CSS Properties are given in the Default CSS file::: */
+/* header{
+    background-color: #649db1;
+} */
+
+/* Step2: component */
+.ourMenu {
+  background-color: #400428;
+}
+
+/* Step3: componentContainer */
+.ourMenuContainer {
+  background-color: #201bc4;
+}
+
+/* Step4: row */
+.ourMenuBody {
+  background-color: #ff0000;
+}
+
+/* Step5: column1 */
+.imageBlock {
+  background-color: #ad627f;
+}
+
+/* Step6: subColumn */
+.imageBox {
+  background-color: #6c7342;
+}
+
+/* Step7: contentContainer */
+.imageBox figure {
+  background-color: #2bb7a2;
+}
+
+.imageBox figure img{
+  background-color: #111111;
+}
+
+/* Step5: column1 */
+.ourMenuBlock {
+  background-color: #48defc;
+}
+
+/* Step6: subColumn */
+.ourMenuBox {
+  background-color: #ad4613f3;
+}
+
+/* Step7: contentContainer */
+.ourMenuBox h2 {
+  background-color: #356aac;
+}
+
+.ourMenuBox p {
+  background-color: #f6cdf6;
+}
+
+.ourMenuBox button {
+  background-color: #b92e5c;
+}

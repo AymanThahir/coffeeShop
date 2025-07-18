@@ -1,0 +1,110 @@
+
+.galary {
+    background-color: #3e0e40;
+}
+
+.galaryContainer {
+    background-color: #8e2a8d;
+}
+
+.gallaryBody {
+    background-color: #ff5733;
+}
+
+.imageBody {
+    background-color: #c70039;
+}
+
+.galaryBlock {
+    background-color: #ffbd69;
+}
+
+.tasteBlock {
+    background-color: #009688;
+}
+
+.cupBlock {
+    background-color: #607d8b;
+}
+
+.cakeBlock {
+    background-color: #3f51b5;
+}
+
+.beanBlock {
+    background-color: #ff9800;
+}
+
+.smileBlock {
+    background-color: #4caf50;
+}
+
+.cubeBlock {
+    background-color: #e91e63;
+}
+
+/* Step6: subColumn */
+.galaryBox {
+    background-color: #8bc34a;
+}
+
+.tasteBox {
+    background-color: #ffc107;
+}
+
+.cupBox {
+    background-color: #9c27b0;
+}
+
+.cakeBox {
+    background-color: #673ab7;
+}
+
+.beanBox {
+    background-color: #03a9f4;
+}
+
+.smileBox {
+    background-color: #795548;
+}
+
+.cubeBox {
+    background-color: #ff5722;
+}
+
+/* Step7: contentContainer */
+.galaryBox figure {
+    background-color: #00bcd4;
+}
+
+.galaryBox figure img {
+    background-color: #009688;
+}
+
+.galaryBox h2 {
+    background-color: #cddc39;
+}
+
+.tasteBox figure img {
+    background-color: #e91e63;
+}
+
+.cupBox figure img {
+    background-color: #4caf50;
+}
+
+.cakeBox figure img {
+    background-color: #f44336;
+}
+
+.beanBox figure img {
+    background-color: #2196f3;
+}
+
+.smileBox figure img {
+    background-color: #ffeb3b;
+}
+
+.cubeBox figure img {
+    background-color: #607d8b;
+}

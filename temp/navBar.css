@@ -1,0 +1,72 @@
+/* ::::CSS Sequence (7 Steps):::: */
+/* Step1: parentContainer */
+/* Step2: component */
+/* Step3: componentContainer */
+/* Step4: row */
+/* Step5: column */
+/* Step6: subColumn */
+/* Step7: contentContainer */
+
+
+/* Step1: parentContainer */
+/* :::For Parent Container CSS Properties are given in the Default CSS file::: */
+/* header{
+    background-color: #649db1;
+} */
+
+/* Step2: component */
+.navBar {
+  background-color: #467386;
+}
+
+/* Step3: componentContainer */
+.navContainer {
+  background-color: #649db1;
+}
+
+/* Step4: row */
+.navBody {
+  background-color: #88b8cc;
+}
+
+/* Step5: column1 */
+.logoBlock {
+  background-color: #48defc;
+}
+
+/* Step6: subColumn */
+.logoBox {
+  background-color: #080902;
+}
+
+/* Step7: contentContainer */
+.logoBox figure {
+  background-color: #ff3c00;
+}
+
+.logoBox figure img {
+  background-color: #50553d;
+}
+
+/* Step5: column2 */
+.navLinkBlock {
+  background-color: #8e42ac;
+}
+
+/* Step6: subColumn */
+.navLinkBox {
+  background-color: #1a7150;
+}
+
+/* Step7: contentContainer */
+.navLinkBox ul {
+  background-color: #341772;
+}
+
+.navLinkBox ul li {
+  background-color: #374f4a;
+}
+
+.navLinkBox ul li a {
+  background-color: #fcfcfc;
+}

@@ -1,0 +1,53 @@
+/* ::::CSS Sequence (7 Steps):::: */
+/* Step1: parentContainer */
+/* Step2: component */
+/* Step3: componentContainer */
+/* Step4: row */
+/* Step5: column */
+/* Step6: subColumn */
+/* Step7: contentContainer */
+
+
+/* Step1: parentContainer */
+/* :::For Parent Container CSS Properties are given in the Default CSS file::: */
+/* header{
+    background-color: #649db1;
+} */
+
+/* Step2: component */
+.hero {
+  background-color: #467386;
+}
+
+/* Step3: componentContainer */
+.heroContainer {
+  background-color: #649db1;
+}
+
+/* Step4: row */
+.heroBody {
+  background-color: #88b8cc;
+}
+
+/* Step5: column1 */
+.heroBlock {
+  background-color: #48defc;
+}
+
+/* Step6: subColumn */
+.heroBox {
+  background-color: #080902;
+}
+
+/* Step7: contentContainer */
+.heroBox h1{
+  background-color: #4e816d;
+}
+
+.heroBox p{
+  background-color: #aa9dbc;
+}
+
+.heroBox button{
+  background-color: #dd9d89;
+}

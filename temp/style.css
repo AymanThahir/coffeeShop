@@ -1,0 +1,100 @@
+
+
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+
+body {
+  /* background-color: #eff2f7; */
+  /* font-family: "Merienda", serif; */
+  font-family: "Nunito Sans", serif;
+  color: #666666;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.5;
+  letter-spacing: 0.1rem;
+  /* -webkit-font-smoothing: antialiased; */
+  /* font-optical-sizing: auto; */
+}
+
+
+
+h1,
+h2,
+h3,
+h4,
+h6,
+p {
+  text-wrap: balance;
+}
+
+input,
+textarea,
+button {
+  font-family: inherit;
+  font-size: inherit;
+}
+
+
+
+
+
+
+
+.dflex {
+  display: flex;
+  /* without this wont work */
+  align-items: center;
+  /* top & bottom Alignment */
+  justify-content: center;
+  /* left & right Alignment */
+}
+
+.dflex-col {
+  display: flex;
+  flex-direction: column;
+  /* makes top to bottom align */
+  align-items: center;
+  /* Behaves like a justify-content */
+  justify-content: center;
+  /* Behaves like a align-items */
+  text-align: center;
+}
+
+.dflex-start {
+  display: flex;
+  /* without this wont work */
+  align-items: center;
+  /* top & bottom Alignment */
+  justify-content: start;
+  /* left & right Alignment */
+}
+/* project standard classes Ends */
+
+/* Default code Ends here */
+
+/* :::PARENT CONTAINER Code Starts here::: */
+
+header {
+  /* background-color: #13c6bd; */
+  width: 100%;
+  /* Full Screensize */
+  height: auto;
+  /* content Height */
+}
+
+main {
+  /* background-color: #ffbf00; */
+  width: 100%;
+  height: auto;
+}
+
+footer {
+  /* background-color: #89f357; */
+  width: 100%;
+  height: auto;
+}
+

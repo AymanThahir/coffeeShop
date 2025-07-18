@@ -1,0 +1,167 @@
+/* ::::CSS Sequence (7 Steps):::: */
+/* Step1: parentContainer */
+/* Step2: component */
+/* Step3: componentContainer */
+/* Step4: row */
+/* Step5: column */
+/* Step6: subColumn */
+/* Step7: contentContainer */
+
+
+/* Step1: parentContainer */
+/* :::For Parent Container CSS Properties are given in the Default CSS file::: */
+/* header{
+    background-color: #649db1;
+} */
+
+/* Step2: component */
+.facility {
+  background-color: #400428;
+}
+
+/* Step3: componentContainer */
+.facilityContainer {
+  background-color: #201bc4;
+}
+
+/* Step4: row */
+.facilityBody {
+  background-color: #ff0000;
+}
+
+/* Step5: column1 */
+.facilityBlock {
+  background-color: #ad627f;
+}
+
+/* Step6: subColumn */
+.facilityBox {
+  background-color: #6c7342;
+}
+
+/* Step7: contentContainer */
+.facilityBox figure {
+  background-color: #2bb7a2;
+}
+
+.facilityBox figure img{
+  background-color: #164e13;
+}
+
+.facilityBox h2{
+  background-color: #6c7342;
+}
+
+/* Step4: row */
+.menuBody {
+  background-color: #ff0000;
+}
+
+/* Step5: column1 */
+.varietiesBlock {
+  background-color: #720f3f;
+}
+
+.cupcardhead{
+  background-color: #454a2b;
+}
+
+.cupcardhead img{
+  background-color: #6b1d32;
+}
+
+.cupcardmain{
+  background-color: #495536;
+}
+
+.cupcardmain h3{
+  background-color: #b19b22;
+}
+
+.cupcardmain p{
+  background-color: #a1285f;
+}
+
+.coffeeBeanBlock{
+    background-color: #51364b;
+}
+
+.coffeeBeanBox{
+    background-color: #94664d;
+}
+
+.beancardhead{
+    background-color: #7e083c;
+}
+
+.beancardhed img{
+    background-color: #e8548d;
+}
+
+.beancardmain{
+    background-color: #833345;
+}
+
+.beancardmain h3{
+    background-color: #34a31d;
+}
+
+.beancardmain p{
+    background-color: #291f73;
+}
+
+.breakfastBlock{
+    background-color: #7d4d58;
+}
+
+.breakfastBox{
+    background-color: #09aacb;
+}
+
+.snackcardhead{
+    background-color: #33a218;
+}
+
+.snackcardhead img{
+    background-color: #6175ca;
+}
+
+.snackcardmain{
+    background-color: #33a218;
+}
+
+.snackcardmain h3{
+    background-color: #555b53;
+}
+
+.snackcardmain p{
+    background-color: #434a5b;
+}
+
+.readyBlock{
+    background-color: #93285a;
+}
+
+.readyBox{
+    background-color: #48defc;
+}
+
+.coffeecardhead{
+    background-color: #397669;
+}
+
+.coffeecardhead img{
+    background-color: #000000;
+}
+
+.coffeecardmain{
+    background-color: #2318a2;
+}
+
+.coffeecardmain h3{
+    background-color: #524d89;
+}
+
+.coffeecardmain p{
+    background-color: #5f5b92;
+}
